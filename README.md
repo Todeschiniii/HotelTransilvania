@@ -237,21 +237,3 @@ Projeto desenvolvido para fins educacionais.
 
 **Mateus Todeschini**  
 GitHub: https://github.com/Todeschiniii  
-
----
-
-## 💡 Observação Final
-
-Esse projeto demonstra domínio em:
-
-- Manipulação de memória manual (vetores)
-- Lógica estruturada
-- Controle de estados
-- Modelagem de sistema real sem abstrações prontas
-
-Se você entende completamente esse código, você já está à frente de muita gente que só sabe usar biblioteca pronta sem entender o que acontece por baixo.
-
-Agora me diz:  
-Você conseguiria transformar esse sistema em orientação a objetos sem travar?
-
-Se não, então ainda tem chão — e é aí que você evolui 🚀
