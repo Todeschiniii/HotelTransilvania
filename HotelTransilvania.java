@@ -114,6 +114,10 @@ public class HotelTransilvania{
                         System.out.print("Digite o número do quarto para cadastrar: ");
                         String numeroQuartoString = scan.nextLine();
                         int numeroQuarto = Integer.parseInt(numeroQuartoString);
+                        if (numeroQuarto < 1 || numeroQuarto > 100) {
+                            System.out.println("Número de quarto inválido! Por favor, escolha entre 1 e 100.");
+                            break;
+                        }
 
                         if(!statusQuarto[numeroQuarto - 1]){  // Verifica se quarto está disponível
                             System.out.print("Digite o nome do hóspede: ");
